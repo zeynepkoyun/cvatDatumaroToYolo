@@ -1,3 +1,4 @@
 # cvatDatumaroToYolo
 
-#python3.6 ve #datumaro==0.2.1
+#python3.6 
+#datumaro==0.2.1
